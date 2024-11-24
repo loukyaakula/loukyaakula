@@ -12,7 +12,7 @@
 
 - 👨‍💻 All my work at one place [https://hotel786.my.canva.site/tech-personal-website-in-black-bold-tech-style](https://hotel786.my.canva.site/tech-personal-website-in-black-bold-tech-style)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, ASP .NET**
 
 - 📫 How to reach me **loukyaakula7@gmail.com**
 
